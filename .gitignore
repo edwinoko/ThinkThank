@@ -1,2 +1,4 @@
 *db.sqlite*
 *pycache*
+*__init__*
+migrations/*
